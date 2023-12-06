@@ -89,3 +89,5 @@ auth.onAuthStateChanged(function (user) {
     //no user signed in
   }
 });
+
+// End
